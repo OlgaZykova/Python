@@ -1,0 +1,5 @@
+Ivanov 30000
+Petrov 34000
+Sidorov 12000
+Koshkin 18000
+Sobachkin 22000
